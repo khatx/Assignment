@@ -7,3 +7,6 @@ function subtract(x , y){
 var multiplication = function(a, b){
     return (a * b);
 };
+var division = function(a, b){
+    return (a / b);
+};
