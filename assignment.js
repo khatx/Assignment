@@ -10,3 +10,6 @@ var multiplication = function(a, b){
 var division = function(a, b){
     return (a / b);
 };
+var modulo = function(a, b){
+    return (a % b);
+};
