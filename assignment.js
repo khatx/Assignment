@@ -13,7 +13,12 @@ var division = function(a, b){
 var modulo = function(a, b){
     return (a % b);
 };
-// this is a comment
+var subArray = function(element) {
+for(i = 0; i <= element.length; i++) {
+        sub -= i[element];;
+        console.log(sub);
+    }
+};
 var Invincible2 = ["Micheal", "Albert"];
 console.log(Invincible2); 
 Invincible2.push("Mutesasira");
