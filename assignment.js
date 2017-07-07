@@ -13,6 +13,7 @@ var division = function(a, b){
 var modulo = function(a, b){
     return (a % b);
 };
+// this is a comment
 var Invincible2 = ["Micheal", "Albert"];
 console.log(Invincible2); 
 Invincible2.push("Mutesasira");
