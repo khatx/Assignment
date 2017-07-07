@@ -15,6 +15,7 @@ var modulo = function(a, b){
 };
 var subArray = function(element) {
 for(i = 0; i <= element.length; i++) {
+<<<<<<< HEAD
         sub -= i[element];;
         console.log(sub);
     }
@@ -28,3 +29,9 @@ console.log(multiplication(2 , 3));
 console.log(division(2 , 3)) 
 console.log(subtract(2 , 3)) 
 console.log(modulo(2 , 3)) 
+=======
+        sub -= element[i];
+        console.log(sub);
+    }
+};
+>>>>>>> subtracting array elements
